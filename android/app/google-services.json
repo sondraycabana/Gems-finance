@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547009831938",
+    "project_id": "gemspay-3ca5f",
+    "storage_bucket": "gemspay-3ca5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547009831938:android:9ac8270fc9e94df92af31b",
+        "android_client_info": {
+          "package_name": "com.example.gems_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547009831938-3haj0c053idce922fbio0p0fpth7ep45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAej5vjpWqgPCzSFFsOLvQH7clmcoefGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547009831938-3haj0c053idce922fbio0p0fpth7ep45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547009831938-i5v19toe6cq8kptfvu0p6fdi73apjcfi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gemsPay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
